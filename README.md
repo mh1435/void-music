@@ -1,5 +1,14 @@
 # Void Music
 
+> **This project now lives in [mh1435/void-ai](https://github.com/mh1435/void-ai).**
+>
+> It was merged with Loop — a self-hosted client built to reach a blocked host from a phone —
+> and gained that project's server as an optional backend, so the player keeps working on a
+> network with no route to archive.org at all. Everything below is still true of the app; the
+> merged repository documents the server as well.
+>
+> Nothing here has been deleted, and this history is preserved intact inside the merge.
+
 A fast, offline-first music player for **openly-licensed** recordings. No account, no ads,
 no subscription, and no dependency on any service that geo-blocks by country.
 
